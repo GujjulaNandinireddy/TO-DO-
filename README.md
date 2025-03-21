@@ -10,18 +10,18 @@ A dynamic and aesthetic To-Do List WebApp with customizable themes. This applica
 💾 Persistent data: Tasks are saved in local storage so they remain even after refreshing the page.
 
 📁 Project structure :
-│
-├── index.html          # The main HTML file defining the app structure.
-│
-├── 📁 CSS
-│     ├── main.css      # The main stylesheet for page layout and styling.
-│   
-├── 📁 JS
-│     ├── main.js        # The main JavaScript file for task functionality and theme management.
-│     └── time.js        # Script for displaying the current date and time.
-|
-└──   README.md          # Detail description about the project and usage manual
 
+-> README.md         # Detail description about the project and usage manual
+
+index.html ->       # The main HTML file defining the app structure.
+
+ 📁 CSS -> main.css # The main stylesheet for page layout and styling.
+ 
+ 📁 JS
+   -> main.js         # The main JavaScript file for task functionality and theme management.
+   ->time.js        # Script for displaying the current date and time.
+
+ 
 DEMO OUTPUT :
 
 
