@@ -22,18 +22,34 @@ A dynamic and aesthetic To-Do List WebApp with customizable themes. This applica
 |
 └──   README.md          # Detail description about the project and usage manual
 
+DEMO OUTPUT :
+
+
+
+
+https://github.com/user-attachments/assets/218bdca9-8221-447b-8832-cc2bc75417e4
+
 
 views :
 
 1. Default View (Standard Theme)
 
+
+![Screenshot 2025-03-21 153054](https://github.com/user-attachments/assets/f6aff39a-1af5-4fc6-81e2-5b76c164c9bc)
+
 Description: Default theme with the standard background, input, and task list.
 
 2. Light Theme View
 
+   ![Screenshot 2025-03-21 153111](https://github.com/user-attachments/assets/7a3ed71b-4912-4f58-822e-941cee58fd7b)
+
+
 Description: Light theme with a soft background and light task items.
 
 3. Darker Theme View
+
+   
+![Screenshot 2025-03-21 153127](https://github.com/user-attachments/assets/aebf20c2-dc4b-4b5c-8d4d-b84930ff4683)
 
 Description: Darker theme with darker background and contrasting task items.
 
